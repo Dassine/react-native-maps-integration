@@ -12,6 +12,31 @@
 		13B07FBD1A68108700A75B9A /* LaunchScreen.xib in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB11A68108700A75B9A /* LaunchScreen.xib */; };
 		13B07FBF1A68108700A75B9A /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		13B07FC11A68108700A75B9A /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
+		2329514A231F598000921138 /* AIRDummyView.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295118231F598000921138 /* AIRDummyView.m */; };
+		2329514B231F598000921138 /* AIRGoogleMapUrlTile.m in Sources */ = {isa = PBXBuildFile; fileRef = 2329511B231F598000921138 /* AIRGoogleMapUrlTile.m */; };
+		2329514C231F598000921138 /* AIRGoogleMapPolygonManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2329511E231F598000921138 /* AIRGoogleMapPolygonManager.m */; };
+		2329514D231F598000921138 /* AIRGoogleMapMarker.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295121231F598000921138 /* AIRGoogleMapMarker.m */; };
+		2329514E231F598000921138 /* AIRGMSPolygon.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295125231F598000921138 /* AIRGMSPolygon.m */; };
+		2329514F231F598000921138 /* AIRGoogleMapURLTileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295126231F598000921138 /* AIRGoogleMapURLTileManager.m */; };
+		23295150231F598000921138 /* AIRGoogleMapWMSTileManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295127231F598000921138 /* AIRGoogleMapWMSTileManager.m */; };
+		23295151231F598000921138 /* AIRGoogleMapCircle.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295128231F598000921138 /* AIRGoogleMapCircle.m */; };
+		23295152231F598000921138 /* AIRGoogleMapCircleManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2329512F231F598000921138 /* AIRGoogleMapCircleManager.m */; };
+		23295153231F598000921138 /* AIRGoogleMapCalloutManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295131231F598000921138 /* AIRGoogleMapCalloutManager.m */; };
+		23295154231F598000921138 /* AIRGoogleMapMarkerManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295132231F598000921138 /* AIRGoogleMapMarkerManager.m */; };
+		23295155231F598000921138 /* AIRGoogleMapPolyline.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295134231F598000921138 /* AIRGoogleMapPolyline.m */; };
+		23295156231F598000921138 /* AIRGoogleMapWMSTile.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295135231F598000921138 /* AIRGoogleMapWMSTile.m */; };
+		23295157231F598000921138 /* AIRGoogleMapOverlay.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295138231F598000921138 /* AIRGoogleMapOverlay.m */; };
+		23295158231F598000921138 /* AIRGMSPolyline.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295139231F598000921138 /* AIRGMSPolyline.m */; };
+		23295159231F598000921138 /* AIRGoogleMapPolylineManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2329513A231F598000921138 /* AIRGoogleMapPolylineManager.m */; };
+		2329515A231F598000921138 /* AIRGoogleMapManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2329513B231F598000921138 /* AIRGoogleMapManager.m */; };
+		2329515B231F598000921138 /* RCTConvert+GMSMapViewType.m in Sources */ = {isa = PBXBuildFile; fileRef = 2329513E231F598000921138 /* RCTConvert+GMSMapViewType.m */; };
+		2329515C231F598000921138 /* AIRGoogleMapCalloutSubviewManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 2329513F231F598000921138 /* AIRGoogleMapCalloutSubviewManager.m */; };
+		2329515D231F598000921138 /* AIRGoogleMapCallout.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295140231F598000921138 /* AIRGoogleMapCallout.m */; };
+		2329515E231F598000921138 /* AIRGoogleMapOverlayManager.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295141231F598000921138 /* AIRGoogleMapOverlayManager.m */; };
+		2329515F231F598000921138 /* AIRGoogleMap.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295142231F598000921138 /* AIRGoogleMap.m */; };
+		23295160231F598000921138 /* AIRGoogleMapPolygon.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295147231F598000921138 /* AIRGoogleMapPolygon.m */; };
+		23295161231F598000921138 /* AIRGMSMarker.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295148231F598000921138 /* AIRGMSMarker.m */; };
+		23295162231F598000921138 /* AIRGoogleMapCalloutSubview.m in Sources */ = {isa = PBXBuildFile; fileRef = 23295149231F598000921138 /* AIRGoogleMapCalloutSubview.m */; };
 		2D02E4BC1E0B4A80006451C7 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB01A68108700A75B9A /* AppDelegate.m */; };
 		2D02E4BD1E0B4A84006451C7 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 13B07FB51A68108700A75B9A /* Images.xcassets */; };
 		2D02E4BF1E0B4AB3006451C7 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 13B07FB71A68108700A75B9A /* main.m */; };
@@ -52,6 +77,56 @@
 		13B07FB61A68108700A75B9A /* Info.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = Info.plist; path = MyRNMapProject/Info.plist; sourceTree = "<group>"; };
 		13B07FB71A68108700A75B9A /* main.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; name = main.m; path = MyRNMapProject/main.m; sourceTree = "<group>"; };
 		1DA8E58CB6EA862A08E0AD46 /* Pods-MyRNMapProjectTests.debug.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyRNMapProjectTests.debug.xcconfig"; path = "Target Support Files/Pods-MyRNMapProjectTests/Pods-MyRNMapProjectTests.debug.xcconfig"; sourceTree = "<group>"; };
+		23295118231F598000921138 /* AIRDummyView.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRDummyView.m; sourceTree = "<group>"; };
+		23295119231F598000921138 /* AIRGoogleMapWMSTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapWMSTile.h; sourceTree = "<group>"; };
+		2329511A231F598000921138 /* AIRGoogleMapPolyline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapPolyline.h; sourceTree = "<group>"; };
+		2329511B231F598000921138 /* AIRGoogleMapUrlTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapUrlTile.m; sourceTree = "<group>"; };
+		2329511C231F598000921138 /* AIRGoogleMapMarkerManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapMarkerManager.h; sourceTree = "<group>"; };
+		2329511D231F598000921138 /* AIRGoogleMapCalloutManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapCalloutManager.h; sourceTree = "<group>"; };
+		2329511E231F598000921138 /* AIRGoogleMapPolygonManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapPolygonManager.m; sourceTree = "<group>"; };
+		2329511F231F598000921138 /* RCTConvert+GMSMapViewType.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = "RCTConvert+GMSMapViewType.h"; sourceTree = "<group>"; };
+		23295120231F598000921138 /* AIRGoogleMapManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapManager.h; sourceTree = "<group>"; };
+		23295121231F598000921138 /* AIRGoogleMapMarker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapMarker.m; sourceTree = "<group>"; };
+		23295122231F598000921138 /* AIRGMSPolyline.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGMSPolyline.h; sourceTree = "<group>"; };
+		23295123231F598000921138 /* AIRGoogleMapPolylineManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapPolylineManager.h; sourceTree = "<group>"; };
+		23295124231F598000921138 /* AIRGoogleMapOverlay.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapOverlay.h; sourceTree = "<group>"; };
+		23295125231F598000921138 /* AIRGMSPolygon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGMSPolygon.m; sourceTree = "<group>"; };
+		23295126231F598000921138 /* AIRGoogleMapURLTileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapURLTileManager.m; sourceTree = "<group>"; };
+		23295127231F598000921138 /* AIRGoogleMapWMSTileManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapWMSTileManager.m; sourceTree = "<group>"; };
+		23295128231F598000921138 /* AIRGoogleMapCircle.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapCircle.m; sourceTree = "<group>"; };
+		23295129231F598000921138 /* AIRGoogleMap.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMap.h; sourceTree = "<group>"; };
+		2329512A231F598000921138 /* AIRGoogleMapOverlayManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapOverlayManager.h; sourceTree = "<group>"; };
+		2329512B231F598000921138 /* AIRGoogleMapCallout.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapCallout.h; sourceTree = "<group>"; };
+		2329512C231F598000921138 /* AIRGoogleMapCalloutSubviewManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapCalloutSubviewManager.h; sourceTree = "<group>"; };
+		2329512D231F598000921138 /* AIRGoogleMapCalloutSubview.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapCalloutSubview.h; sourceTree = "<group>"; };
+		2329512E231F598000921138 /* AIRGMSMarker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGMSMarker.h; sourceTree = "<group>"; };
+		2329512F231F598000921138 /* AIRGoogleMapCircleManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapCircleManager.m; sourceTree = "<group>"; };
+		23295130231F598000921138 /* AIRGoogleMapPolygon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapPolygon.h; sourceTree = "<group>"; };
+		23295131231F598000921138 /* AIRGoogleMapCalloutManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapCalloutManager.m; sourceTree = "<group>"; };
+		23295132231F598000921138 /* AIRGoogleMapMarkerManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapMarkerManager.m; sourceTree = "<group>"; };
+		23295133231F598000921138 /* AIRGoogleMapUrlTile.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapUrlTile.h; sourceTree = "<group>"; };
+		23295134231F598000921138 /* AIRGoogleMapPolyline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapPolyline.m; sourceTree = "<group>"; };
+		23295135231F598000921138 /* AIRGoogleMapWMSTile.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapWMSTile.m; sourceTree = "<group>"; };
+		23295136231F598000921138 /* AIRDummyView.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRDummyView.h; sourceTree = "<group>"; };
+		23295137231F598000921138 /* AIRGMSPolygon.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGMSPolygon.h; sourceTree = "<group>"; };
+		23295138231F598000921138 /* AIRGoogleMapOverlay.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapOverlay.m; sourceTree = "<group>"; };
+		23295139231F598000921138 /* AIRGMSPolyline.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGMSPolyline.m; sourceTree = "<group>"; };
+		2329513A231F598000921138 /* AIRGoogleMapPolylineManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapPolylineManager.m; sourceTree = "<group>"; };
+		2329513B231F598000921138 /* AIRGoogleMapManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapManager.m; sourceTree = "<group>"; };
+		2329513C231F598000921138 /* AIRGoogleMapMarker.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapMarker.h; sourceTree = "<group>"; };
+		2329513D231F598000921138 /* AIRGoogleMapPolygonManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapPolygonManager.h; sourceTree = "<group>"; };
+		2329513E231F598000921138 /* RCTConvert+GMSMapViewType.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = "RCTConvert+GMSMapViewType.m"; sourceTree = "<group>"; };
+		2329513F231F598000921138 /* AIRGoogleMapCalloutSubviewManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapCalloutSubviewManager.m; sourceTree = "<group>"; };
+		23295140231F598000921138 /* AIRGoogleMapCallout.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapCallout.m; sourceTree = "<group>"; };
+		23295141231F598000921138 /* AIRGoogleMapOverlayManager.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapOverlayManager.m; sourceTree = "<group>"; };
+		23295142231F598000921138 /* AIRGoogleMap.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMap.m; sourceTree = "<group>"; };
+		23295143231F598000921138 /* AIRGoogleMapCircle.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapCircle.h; sourceTree = "<group>"; };
+		23295144231F598000921138 /* AIRGoogleMapWMSTileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapWMSTileManager.h; sourceTree = "<group>"; };
+		23295145231F598000921138 /* AIRGoogleMapUrlTileManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapUrlTileManager.h; sourceTree = "<group>"; };
+		23295146231F598000921138 /* AIRGoogleMapCircleManager.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = AIRGoogleMapCircleManager.h; sourceTree = "<group>"; };
+		23295147231F598000921138 /* AIRGoogleMapPolygon.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapPolygon.m; sourceTree = "<group>"; };
+		23295148231F598000921138 /* AIRGMSMarker.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGMSMarker.m; sourceTree = "<group>"; };
+		23295149231F598000921138 /* AIRGoogleMapCalloutSubview.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = AIRGoogleMapCalloutSubview.m; sourceTree = "<group>"; };
 		279D9D3AD1AA948598757DB4 /* Pods-MyRNMapProject-tvOSTests.release.xcconfig */ = {isa = PBXFileReference; includeInIndex = 1; lastKnownFileType = text.xcconfig; name = "Pods-MyRNMapProject-tvOSTests.release.xcconfig"; path = "Target Support Files/Pods-MyRNMapProject-tvOSTests/Pods-MyRNMapProject-tvOSTests.release.xcconfig"; sourceTree = "<group>"; };
 		2D02E47B1E0B4A5D006451C7 /* MyRNMapProject-tvOS.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "MyRNMapProject-tvOS.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		2D02E4901E0B4A5D006451C7 /* MyRNMapProject-tvOSTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "MyRNMapProject-tvOSTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
@@ -136,6 +211,64 @@
 			name = MyRNMapProject;
 			sourceTree = "<group>";
 		};
+		23295117231F598000921138 /* AirGoogleMaps */ = {
+			isa = PBXGroup;
+			children = (
+				23295118231F598000921138 /* AIRDummyView.m */,
+				23295119231F598000921138 /* AIRGoogleMapWMSTile.h */,
+				2329511A231F598000921138 /* AIRGoogleMapPolyline.h */,
+				2329511B231F598000921138 /* AIRGoogleMapUrlTile.m */,
+				2329511C231F598000921138 /* AIRGoogleMapMarkerManager.h */,
+				2329511D231F598000921138 /* AIRGoogleMapCalloutManager.h */,
+				2329511E231F598000921138 /* AIRGoogleMapPolygonManager.m */,
+				2329511F231F598000921138 /* RCTConvert+GMSMapViewType.h */,
+				23295120231F598000921138 /* AIRGoogleMapManager.h */,
+				23295121231F598000921138 /* AIRGoogleMapMarker.m */,
+				23295122231F598000921138 /* AIRGMSPolyline.h */,
+				23295123231F598000921138 /* AIRGoogleMapPolylineManager.h */,
+				23295124231F598000921138 /* AIRGoogleMapOverlay.h */,
+				23295125231F598000921138 /* AIRGMSPolygon.m */,
+				23295126231F598000921138 /* AIRGoogleMapURLTileManager.m */,
+				23295127231F598000921138 /* AIRGoogleMapWMSTileManager.m */,
+				23295128231F598000921138 /* AIRGoogleMapCircle.m */,
+				23295129231F598000921138 /* AIRGoogleMap.h */,
+				2329512A231F598000921138 /* AIRGoogleMapOverlayManager.h */,
+				2329512B231F598000921138 /* AIRGoogleMapCallout.h */,
+				2329512C231F598000921138 /* AIRGoogleMapCalloutSubviewManager.h */,
+				2329512D231F598000921138 /* AIRGoogleMapCalloutSubview.h */,
+				2329512E231F598000921138 /* AIRGMSMarker.h */,
+				2329512F231F598000921138 /* AIRGoogleMapCircleManager.m */,
+				23295130231F598000921138 /* AIRGoogleMapPolygon.h */,
+				23295131231F598000921138 /* AIRGoogleMapCalloutManager.m */,
+				23295132231F598000921138 /* AIRGoogleMapMarkerManager.m */,
+				23295133231F598000921138 /* AIRGoogleMapUrlTile.h */,
+				23295134231F598000921138 /* AIRGoogleMapPolyline.m */,
+				23295135231F598000921138 /* AIRGoogleMapWMSTile.m */,
+				23295136231F598000921138 /* AIRDummyView.h */,
+				23295137231F598000921138 /* AIRGMSPolygon.h */,
+				23295138231F598000921138 /* AIRGoogleMapOverlay.m */,
+				23295139231F598000921138 /* AIRGMSPolyline.m */,
+				2329513A231F598000921138 /* AIRGoogleMapPolylineManager.m */,
+				2329513B231F598000921138 /* AIRGoogleMapManager.m */,
+				2329513C231F598000921138 /* AIRGoogleMapMarker.h */,
+				2329513D231F598000921138 /* AIRGoogleMapPolygonManager.h */,
+				2329513E231F598000921138 /* RCTConvert+GMSMapViewType.m */,
+				2329513F231F598000921138 /* AIRGoogleMapCalloutSubviewManager.m */,
+				23295140231F598000921138 /* AIRGoogleMapCallout.m */,
+				23295141231F598000921138 /* AIRGoogleMapOverlayManager.m */,
+				23295142231F598000921138 /* AIRGoogleMap.m */,
+				23295143231F598000921138 /* AIRGoogleMapCircle.h */,
+				23295144231F598000921138 /* AIRGoogleMapWMSTileManager.h */,
+				23295145231F598000921138 /* AIRGoogleMapUrlTileManager.h */,
+				23295146231F598000921138 /* AIRGoogleMapCircleManager.h */,
+				23295147231F598000921138 /* AIRGoogleMapPolygon.m */,
+				23295148231F598000921138 /* AIRGMSMarker.m */,
+				23295149231F598000921138 /* AIRGoogleMapCalloutSubview.m */,
+			);
+			name = AirGoogleMaps;
+			path = "../node_modules/react-native-maps/lib/ios/AirGoogleMaps";
+			sourceTree = "<group>";
+		};
 		2D16E6871FA4F8E400B85C8A /* Frameworks */ = {
 			isa = PBXGroup;
 			children = (
@@ -159,6 +292,7 @@
 		83CBB9F61A601CBA00E9B192 = {
 			isa = PBXGroup;
 			children = (
+				23295117231F598000921138 /* AirGoogleMaps */,
 				13B07FAE1A68108700A75B9A /* MyRNMapProject */,
 				832341AE1AAA6A7D00B99B32 /* Libraries */,
 				00E356EF1AD99517003FC87E /* MyRNMapProjectTests */,
@@ -551,7 +685,32 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				2329515F231F598000921138 /* AIRGoogleMap.m in Sources */,
+				2329514B231F598000921138 /* AIRGoogleMapUrlTile.m in Sources */,
+				23295156231F598000921138 /* AIRGoogleMapWMSTile.m in Sources */,
+				2329514C231F598000921138 /* AIRGoogleMapPolygonManager.m in Sources */,
+				23295158231F598000921138 /* AIRGMSPolyline.m in Sources */,
+				23295162231F598000921138 /* AIRGoogleMapCalloutSubview.m in Sources */,
+				2329514F231F598000921138 /* AIRGoogleMapURLTileManager.m in Sources */,
+				23295154231F598000921138 /* AIRGoogleMapMarkerManager.m in Sources */,
+				2329514D231F598000921138 /* AIRGoogleMapMarker.m in Sources */,
+				23295161231F598000921138 /* AIRGMSMarker.m in Sources */,
+				23295160231F598000921138 /* AIRGoogleMapPolygon.m in Sources */,
+				2329514A231F598000921138 /* AIRDummyView.m in Sources */,
+				23295155231F598000921138 /* AIRGoogleMapPolyline.m in Sources */,
+				2329514E231F598000921138 /* AIRGMSPolygon.m in Sources */,
+				23295157231F598000921138 /* AIRGoogleMapOverlay.m in Sources */,
+				2329515D231F598000921138 /* AIRGoogleMapCallout.m in Sources */,
+				23295151231F598000921138 /* AIRGoogleMapCircle.m in Sources */,
+				23295152231F598000921138 /* AIRGoogleMapCircleManager.m in Sources */,
+				2329515B231F598000921138 /* RCTConvert+GMSMapViewType.m in Sources */,
+				23295150231F598000921138 /* AIRGoogleMapWMSTileManager.m in Sources */,
+				2329515C231F598000921138 /* AIRGoogleMapCalloutSubviewManager.m in Sources */,
+				23295159231F598000921138 /* AIRGoogleMapPolylineManager.m in Sources */,
+				23295153231F598000921138 /* AIRGoogleMapCalloutManager.m in Sources */,
 				13B07FBC1A68108700A75B9A /* AppDelegate.m in Sources */,
+				2329515E231F598000921138 /* AIRGoogleMapOverlayManager.m in Sources */,
+				2329515A231F598000921138 /* AIRGoogleMapManager.m in Sources */,
 				13B07FC11A68108700A75B9A /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
