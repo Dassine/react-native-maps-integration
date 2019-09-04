@@ -7,11 +7,12 @@
  */
 import React from 'react'
 
-import MapView from 'react-native-maps'
+import MapView, {PROVIDER_GOOGLE} from 'react-native-maps'
 
 const App = () => {
   return (
     <MapView
+      provider={PROVIDER_GOOGLE}
       style={{ flex: 1 }}
       region={{
         latitude: 37.485178,
